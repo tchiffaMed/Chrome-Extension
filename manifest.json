@@ -3,10 +3,10 @@
     "name" : "tchiffaMed",
     "description" : "Quick access social media",
     "version" : "1.0.0",
-    "icons": {"128": "i/microsoft.svg"},
+    "icons": {"128": "i/mlogo.png"},
     "browser_action": {
-        "default_icon": "i/microsoft.svg",
-        "default_popup": "popup.html"
+        "default_icon": "i/mlogo.png",
+        "default_popup": "extensio.html"
     },
     "permissions": ["webNavigation"]
 
